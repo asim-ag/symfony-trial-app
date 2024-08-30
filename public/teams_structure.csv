@@ -1,0 +1,9 @@
+team,parent_team,manager_name,business_unit
+C Suit,,John Doe,
+Dev Team,C Suit,David Ahrendt,development_eu
+QA Team,Dev Team,Thomas Hann,development_us
+Sales,Business team,Steph Stephans,business
+Customer Relations,Sales,John Cutleras,business
+Business team,C Suit,Brad Gulter,business
+Customer Support,Business team,Joseph Doeson,business
+Devops,Dev Team,Marcos Marki,development_eu
